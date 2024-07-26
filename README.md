@@ -1,5 +1,5 @@
 # Design By Diana
-*<!Showcase my awesome front end coding, freelance copywriting, and digital surface pattern design abilities!>*
+Showcase my awesome front end coding, freelance copywriting, and digital surface pattern design abilities
 <!DOCTYPE HTML>
 <html lang="en">
 </html>
